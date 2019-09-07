@@ -1,0 +1,1 @@
+Thoroughly commented version for a friend
