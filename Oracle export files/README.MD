@@ -1,1 +1,1 @@
-# Best open with Oracle SQL developer or Notepad++ for clarity
+Best open with Oracle SQL developer or Notepad++ for clarity
